@@ -12,4 +12,5 @@ Simple container based on Debian with a few network utilities installed:
   - jq
   - net-tools (arp, ifconfig, netsat, rarp, nameif, route & more)
   - dnsutils
+  - tracepath
 
